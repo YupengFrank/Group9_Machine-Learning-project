@@ -1,1 +1,2 @@
 # Group9_Machine-Learning-project
+This project contain three steps to complete. The first one is to data pre-processing(clean the data set and make it easy for the data visualization and future model building) and data visualization. Additionally, the second phase is to create the models such as SVM(Support vector machine), random forest and so on. Last steps would be the verification where we use Scikit-learn (Sklearn) packages to verify our models.
